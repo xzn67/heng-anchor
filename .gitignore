@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# 这些是实例数据，不是代码；发出去只发工具
+id
+id.pub
+allowed_signers
+anchor.json
+lineage.jsonl
+manifest.json
+manifest.sig
+state-seal.*
+heartbeat.*
+*.zip
